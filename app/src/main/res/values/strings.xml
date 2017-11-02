@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="activity_main_email_title">Email</string>
+    <string name="activity_main_password_title">Contraseña</string>
+    <string name="activity_main_sign_in">Entrar</string>
+    <string name="activity_main_sign_up">Registrarme</string>
+</resources>
